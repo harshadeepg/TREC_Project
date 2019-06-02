@@ -1,0 +1,1125 @@
+TRECIS-CTIT-H-Test-023	Q0	1099173151118950400	0	0.5333860817008211	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099222772839051265	1	0.5249788513457784	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099230402277851137	2	0.5335205262979386	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099277855106756608	3	0.5214600345914054	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'ThirdPartyObservation', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099281356922724358	4	0.5237748820697942	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'ThirdPartyObservation', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099282310518751232	5	0.5237748820697942	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'ThirdPartyObservation', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099283001316274176	6	0.5366518328720137	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099287833255333888	7	0.5237748820697942	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'ThirdPartyObservation', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099309846804004866	8	0.5237748820697942	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'ThirdPartyObservation', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099316572898971649	9	0.5199782054403955	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'ThirdPartyObservation', 'MovePeople', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099318637339512832	10	0.5237748820697942	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'ThirdPartyObservation', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099322975092948992	11	0.5236149403700671	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099352122565541889	12	0.5237748820697942	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'ThirdPartyObservation', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099418163236589568	13	0.5368194661780615	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099452971560009728	14	0.5353871342756175	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099453984128020482	15	0.5137269523644019	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099454414849482752	16	0.5137269523644019	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099471683465834497	17	0.5126523866090936	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099496474621239297	18	0.5375445038050894	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099511211757133824	19	0.5239812427208788	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099520777731428352	20	0.5252152512099715	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099526393489178625	21	0.532662533774271	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099610650664304640	22	0.5224228234320549	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099650926820945921	23	0.5410600213837018	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099684120853127168	24	0.5262196354567497	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099703494116864007	25	0.5098062811955891	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099722489914114048	26	0.5243517249645782	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099723128786186240	27	0.5237107520901764	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'ServiceAvailable', 'ContinuingNews', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099723234440826882	28	0.5243517249645782	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099723277239488512	29	0.5243517249645782	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099723746045239296	30	0.5243517249645782	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099739216936947712	31	0.5126647682186734	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'EmergingThreats', 'ServiceAvailable', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099775978564399104	32	0.5165745823811213	['InformationWanted', 'Weather', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099803019150016512	33	0.5297614571470249	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099804857500950528	34	0.5301316521296962	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099806352304754689	35	0.5298462525673838	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099823813808873472	36	0.5156204664956457	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099849854098915329	37	0.5243517249645782	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099942641926631424	38	0.5301316521296962	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099943610429124608	39	0.5301316521296962	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099974551444905985	40	0.5176368809731068	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1099978726413135872	41	0.5167415741547565	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100001395292491776	42	0.5351795722698809	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100018394894618624	43	0.5327552641624347	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100020909396709377	44	0.5187915002863971	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100040659497562112	45	0.5200395074654521	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100049572859125760	46	0.5363442779044375	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100049592740122624	47	0.5334146612566624	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100052000761434117	48	0.5242995848752461	['Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ContinuingNews', 'Volunteer', 'Sentiment', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100054610935496706	49	0.5260230426173124	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100060327843115009	50	0.5200395074654521	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100069783020752901	51	0.5100186872632132	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100070526385573896	52	0.5125816802677613	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100081065459441665	53	0.5383461567348728	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100086519744868352	54	0.5351795722698809	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100117106744537093	55	0.5242995848752461	['Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ContinuingNews', 'Volunteer', 'Sentiment', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100119216668192768	56	0.5383845361599882	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100122529027448837	57	0.5329221751500425	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100151287402975234	58	0.5199782054403955	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'ThirdPartyObservation', 'MovePeople', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100164928323825664	59	0.5279351175917817	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100179005901324288	60	0.5423019471471607	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100295827438911488	61	0.5390420074657449	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100299477670334465	62	0.5364673088414189	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100299522956296192	63	0.5307442892417089	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100299522956296192	64	0.5307442892417089	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100321394871754752	65	0.5379402876566106	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100321840952680448	66	0.5388283397227139	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100334735891533824	67	0.5243798705551641	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100343723651727360	68	0.5114990789160256	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100354830302961664	69	0.5326559802675032	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100368756163911680	70	0.5124057826739146	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100377522926166017	71	0.5224302412975448	['InformationWanted', 'Discussion', 'Advice', 'Official', 'Factoid', 'PastNews', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100380294094483456	72	0.5377337030416914	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100402614322241536	73	0.5342501221039984	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100403902388887552	74	0.5311701534699212	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100404099474812930	75	0.5312737927797531	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100404227334115328	76	0.5312737927797531	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100406601284874240	77	0.534700643182981	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100407100277170176	78	0.534700643182981	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100409564803956744	79	0.5312737927797531	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100411860153622529	80	0.5118331196105964	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'Donations', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100415890267373571	81	0.5312737927797531	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100426892530860032	82	0.5377337030416914	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100427632934572043	83	0.5312737927797531	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100446438813847554	84	0.5119284931970915	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100450274546761729	85	0.5148172989095763	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100460260127588354	86	0.5312737927797531	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100476720220725249	87	0.5340399898781184	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100490339511660545	88	0.5343956042454523	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100496225500102656	89	0.5199782054403955	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'ThirdPartyObservation', 'MovePeople', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100570671711698944	90	0.5312737927797531	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100623535121276929	91	0.5312737927797531	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100674315815661568	92	0.5262196354567497	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100678816249319425	93	0.5363935726021667	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100698297155633153	94	0.5268802409070318	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100698297155633153	95	0.5268802409070318	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100698297155633153	96	0.5268802409070318	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100704486937542657	97	0.5308727027811215	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100705571198693383	98	0.52987570799575	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100705677863989248	99	0.5313069146062628	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100706663412178944	100	0.5313069146062628	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100717326587121665	101	0.5397251761352085	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100717750811590656	102	0.5312737927797531	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100717763360890882	103	0.5400400526731761	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100718343282221056	104	0.5403313837120665	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100723398827786245	105	0.5327086369731239	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100725825480081410	106	0.5373866409030066	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100727279804710913	107	0.5373866409030066	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100730694320324608	108	0.5199833726956932	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100730774800793600	109	0.5188023550162357	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'ServiceAvailable', 'ContinuingNews', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100732028134264832	110	0.5188023550162357	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'ServiceAvailable', 'ContinuingNews', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100734557249302528	111	0.5291129249665754	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100736547316482048	112	0.5308057406117597	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100736807925366784	113	0.5199473368753805	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100736824610381825	114	0.5308057406117597	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100738546506366976	115	0.5308057406117597	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100742567208067073	116	0.5151721142172364	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'ServiceAvailable', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100744233869299712	117	0.5295912509459847	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100745195124150272	118	0.5394561753217403	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100752796289249280	119	0.5443798282633975	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100756072057298945	120	0.5170316132535941	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100757266687496194	121	0.5308057406117597	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100757949536972800	122	0.5398422029507169	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100764883992432640	123	0.5356167504036936	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100765649398349824	124	0.538306146085446	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100766408416350208	125	0.5188252643801572	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'ServiceAvailable', 'ContinuingNews', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100767100497477632	126	0.5280946193124099	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100768768685424641	127	0.5188252643801572	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'ServiceAvailable', 'ContinuingNews', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100769861767258112	128	0.5258869264988987	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100770205003857920	129	0.5188252643801572	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'ServiceAvailable', 'ContinuingNews', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100771239369588736	130	0.544052977011431	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100772034840281089	131	0.5440660387133673	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100779176469188608	132	0.5373866409030066	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100784497614876672	133	0.5205403796396795	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100785257039781888	134	0.5227501507896529	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100787712603447299	135	0.5249402316721574	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100789714703998976	136	0.5347318121281468	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100791717450649602	137	0.5440660387133673	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100792634879160320	138	0.5299310190434989	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100792928782430208	139	0.5224049964782906	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100800240511320064	140	0.5340531003233597	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100802571911004160	141	0.5363932722021587	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100808285727289344	142	0.5198910806217019	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100819524536991745	143	0.5440660387133673	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100824650681118720	144	0.529765852992503	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100824650681118720	145	0.529765852992503	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100824995520016385	146	0.5308727027811215	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100837985006821380	147	0.5188252643801572	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'ServiceAvailable', 'ContinuingNews', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100844844187111424	148	0.5205087436668239	['InformationWanted', 'Weather', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'ServiceAvailable', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100847597848350720	149	0.5406505400578623	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100847597848350720	150	0.5406505400578623	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100849730316308485	151	0.5325578624922015	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100850427749433347	152	0.5406505400578623	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100850427749433347	153	0.5406505400578623	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100850761452478464	154	0.5325578624922015	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100851127602634752	155	0.5162737038390923	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100852793026494469	156	0.5382625462414434	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100853141053063170	157	0.5386807773603087	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100854662671011845	158	0.5257061394276384	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100865703412928518	159	0.5406505400578623	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100865703412928518	160	0.5406505400578623	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100865703412928518	161	0.5406505400578623	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100871930670911488	162	0.5325578624922015	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100883154171297793	163	0.5408576822895421	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100883503355478017	164	0.5408576822895421	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100890659068600320	165	0.5389175594422994	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100893899239948288	166	0.5254678603343607	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100894056736083968	167	0.5324363792867458	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100896357299208192	168	0.5325578624922015	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100901880962732032	169	0.5340052097601955	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100902355283910657	170	0.5276477497314893	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100915998516043776	171	0.5188252643801572	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'ServiceAvailable', 'ContinuingNews', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100945224782790657	172	0.5280946193124099	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1100953913123983360	173	0.5188252643801572	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'ServiceAvailable', 'ContinuingNews', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101008450920812544	174	0.5325578624922015	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101030879139381248	175	0.5258541047256062	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101030880888438785	176	0.5318663373844833	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101035588692701185	177	0.5406505400578623	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101035588692701185	178	0.5406505400578623	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101035588692701185	179	0.5406505400578623	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101050969494880256	180	0.5406505400578623	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101050969494880256	181	0.5406505400578623	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101050969494880256	182	0.5406505400578623	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101064591323353089	183	0.5228511102915874	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101070093755318272	184	0.5273727650756441	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101079539097182209	185	0.5391629428569973	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101081255574159360	186	0.5313391250328523	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101144348144660483	187	0.5348909643072097	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101144348144660483	188	0.5348909643072097	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101144348144660483	189	0.5348909643072097	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101145967959687168	190	0.5196636219079542	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'Donations', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101146927222149122	191	0.5348888672193259	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101244284743888903	192	0.5390102603082934	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101253274282401792	193	0.5340579417673872	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101253370478841856	194	0.5198674523309474	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101256909024346112	195	0.5198674523309474	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101265590986117125	196	0.5280946193124099	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101269588501819392	197	0.5344680916451593	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101269890378416128	198	0.5333858351953056	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101271076640743424	199	0.5156962006801116	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101285081979723776	200	0.5311220165105439	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101287360338247680	201	0.5399636267638785	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101288864390500353	202	0.515629555069642	['InformationWanted', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101309533098516481	203	0.5156962006801116	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101316131682430983	204	0.535329185463271	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101331479303467009	205	0.5156962006801116	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101376377381703680	206	0.5338085396725603	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101392312112947201	207	0.5298482375739544	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101420414650204160	208	0.5286289240176429	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101435833851224064	209	0.5292098811527499	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101439907803947009	210	0.5292098811527499	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101445241457000448	211	0.5292098811527499	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101446035623284737	212	0.5292098811527499	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101452573104635904	213	0.5292098811527499	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101460111548133377	214	0.5201858327463428	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'ServiceAvailable', 'ContinuingNews', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101479230725128193	215	0.5257568829342604	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101490235815403522	216	0.5347524312937613	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101494563145990144	217	0.5153598961420908	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101497898167140352	218	0.5153598961420908	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101500350236811265	219	0.5150490246399293	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101509448827314176	220	0.5375445038050894	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101523722987552768	221	0.5323223539264869	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101523748140781568	222	0.5323223539264869	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101525544741601287	223	0.5323223539264869	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101531702311051266	224	0.5312208265836165	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101534780439650304	225	0.5350529774668427	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101534901214556161	226	0.5363572059783056	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101535143704043522	227	0.5363572059783056	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101540451591614464	228	0.5362423004255131	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101549931058229248	229	0.5156962006801116	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101550812755451904	230	0.5335925910221394	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101551183330631681	231	0.5164113604421436	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101552286315282434	232	0.5206388492024814	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101552363356200960	233	0.5292098811527499	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101553354600177664	234	0.5292098811527499	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101555464674828289	235	0.5156962006801116	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101556202285092864	236	0.5258079414068628	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101558267606634496	237	0.5156962006801116	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101568724845428736	238	0.5399192084557536	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101571003988160512	239	0.5395088776599308	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101572825381523457	240	0.5156350928803839	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101573789433896960	241	0.5379371908498847	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101574003808976896	242	0.5381925857673167	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101574749149290497	243	0.5233135835982846	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101581604852424704	244	0.5396875861333513	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101598593553780742	245	0.5379187809862718	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101599683129024512	246	0.5384845761341572	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101599770630672391	247	0.5384845761341572	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101601736928780288	248	0.5384845761341572	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101601951677071360	249	0.5384845761341572	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101606083116875780	250	0.5286460818643227	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101607730853351425	251	0.5332228338555727	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101608622046498817	252	0.5333312686690839	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101610038190321664	253	0.5396875861333513	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101613735368630272	254	0.5382956705199644	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101614894930186242	255	0.5396875861333513	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101615108583817217	256	0.5333312686690839	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101616286084284416	257	0.5384845761341572	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101616327733768192	258	0.5347462576935432	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101632105426153477	259	0.5384845761341572	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101633801539600386	260	0.5384845761341572	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101637235747766274	261	0.5434656128188299	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101638916627750913	262	0.5396875861333513	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101716824675241985	263	0.5445549833755081	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101719407141707776	264	0.5258079414068628	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101724872525385728	265	0.5241044931038179	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101725839714996224	266	0.5243268874727149	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101738168519282688	267	0.5273261786015511	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101743436145795072	268	0.5258079414068628	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101756854147969024	269	0.5207648500689589	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101761306707836928	270	0.5243681734903104	['InformationWanted', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101771122473869312	271	0.5292098811527499	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101779187302428672	272	0.5258079414068628	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101783348752584705	273	0.5390588089678549	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101794529529741313	274	0.5181630162363846	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101804264303800320	275	0.531087096012532	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101816435364356096	276	0.5279351175917817	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101825254425546752	277	0.5243681734903104	['InformationWanted', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101838122097139712	278	0.5156962006801116	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101842971069054976	279	0.5174036146594562	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101848293267648516	280	0.5156962006801116	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101850988724523008	281	0.5181630162363846	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101883301676179456	282	0.5258869264988987	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101891395374206978	283	0.5174036146594562	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101891530317537281	284	0.5174036146594562	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101896054574768130	285	0.5174036146594562	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101910608109338624	286	0.5422831287820314	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101917504983715840	287	0.5384845761341572	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101927548592615424	288	0.5258079414068628	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101929515247382532	289	0.5258079414068628	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101929920744304642	290	0.5258079414068628	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101930356352135168	291	0.5156962006801116	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101930908951621632	292	0.5258079414068628	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101931086098124800	293	0.5258079414068628	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101931858919600128	294	0.5258079414068628	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101934043573166080	295	0.5253740626699395	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101945286451032065	296	0.5129949858738048	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101951907239809025	297	0.5205925065018702	['InformationWanted', 'Weather', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101953207868129280	298	0.5126546161343113	['InformationWanted', 'Weather', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'ServiceAvailable', 'ContinuingNews', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101953274616393729	299	0.5334581255274823	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101970536756723712	300	0.5297496876074383	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1101994466859114496	301	0.5258079414068628	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102005534905884672	302	0.5258079414068628	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102010096773709832	303	0.5223705570657973	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102020602955792385	304	0.5273261786015511	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102021275533434880	305	0.5352197706552011	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102054781512806400	306	0.5341745087803245	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102057649393356800	307	0.5340620290838466	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102063187883683840	308	0.5340620290838466	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102117279586672640	309	0.5305076539700246	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102117357470842880	310	0.5305076539700246	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102118463139508225	311	0.5305076539700246	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102118621155753985	312	0.5305076539700246	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102118758439481344	313	0.5305076539700246	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102119109578317825	314	0.5305076539700246	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102119593139675137	315	0.5386271989510798	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102122133830930433	316	0.5305076539700246	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102123093277868032	317	0.5305076539700246	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102125450481012737	318	0.5305076539700246	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102128281699016704	319	0.5305076539700246	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102166069911977985	320	0.5386271989510798	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102183096148021248	321	0.5348978222080051	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102183182697324545	322	0.5305076539700246	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102184949422137349	323	0.5370456362638139	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102186302961795072	324	0.5382960010693922	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102192664093618176	325	0.5348822191668032	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102194362920960000	326	0.5340620290838466	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102199497508024322	327	0.5305076539700246	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102205928470966272	328	0.5340620290838466	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102220718627000320	329	0.5383066276803457	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102220759597006848	330	0.5176661485700875	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102228549430333440	331	0.5258079414068628	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102231859398889475	332	0.5258079414068628	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102244095060307969	333	0.5339878039881788	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102244925259857921	334	0.5338385626310618	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102257110103015434	335	0.5340620290838466	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102257349966921733	336	0.5364920515928147	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102278231988862982	337	0.5340620290838466	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102305995055865862	338	0.5328597851208097	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102309619832180737	339	0.5342885186774138	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102315424300089344	340	0.5173446877400083	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102315424300089344	341	0.5173446877400083	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102316266029748225	342	0.543616791213668	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102316287953457152	343	0.5437574295435287	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102343538459598848	344	0.5258079414068628	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102344568471801857	345	0.5437574295435287	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102359580317749248	346	0.5340620290838466	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102372533930770434	347	0.5430036702488571	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102382237813784576	348	0.5267332169036528	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102384471720919046	349	0.5305076539700246	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102478932702625792	350	0.5258079414068628	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102508601208438790	351	0.533066608818236	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102508852111724544	352	0.5214901794270902	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102508873515065344	353	0.5171528132393061	['InformationWanted', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102509219033636864	354	0.523557738988323	['InformationWanted', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102513806360698880	355	0.5171528132393061	['InformationWanted', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102513971100295168	356	0.5307420289423811	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102516639776555008	357	0.5287850789449792	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102516837240184834	358	0.5307420289423811	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102517060402335744	359	0.5307420289423811	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102526561465626629	360	0.5296810115510213	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102532097711972352	361	0.5318212162808872	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102534655759314944	362	0.5330243497421503	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102534907761434624	363	0.5171528132393061	['InformationWanted', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102541833937264641	364	0.5253809395342995	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102546984869732352	365	0.5185272500683774	['InformationWanted', 'Discussion', 'Official', 'Factoid', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102551522557214721	366	0.5129949858738048	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102564238076325888	367	0.5384137328974444	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102566583078174720	368	0.5437574295435287	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102582860341497856	369	0.5171528132393061	['InformationWanted', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102583131591315456	370	0.5171528132393061	['InformationWanted', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102601210169884672	371	0.5327976319331378	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102627154335055872	372	0.5268402945800783	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'FirstPartyObservation', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102628530003812352	373	0.515761501053787	['InformationWanted', 'Weather', 'Discussion', 'Advice', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation']	run1
+
+
+TRECIS-CTIT-H-Test-023	Q0	1102630745728782336	374	0.5437574295435287	['InformationWanted', 'Weather', 'Discussion', 'Official', 'Factoid', 'Irrelevant', 'PastNews', 'MovePeople', 'Donations', 'EmergingThreats', 'ServiceAvailable', 'ContinuingNews', 'Volunteer', 'Sentiment', 'SignificantEventChange', 'FirstPartyObservation', 'KnownAlready']	run1
+
+

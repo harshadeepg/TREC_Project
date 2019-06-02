@@ -1,0 +1,384 @@
+TRECIS-CTIT-H-Test-024	Q0	503866427322159104	0	0.513130337850786	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503866526676819969	1	0.5126988425550084	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503866635745099776	2	0.5231731127916426	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'FirstPartyObservation', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503866707568373760	3	0.5152306082209127	['Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503866815203012608	4	0.5126361735135341	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503866885629554688	5	0.5183538445636121	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'ThirdPartyObservation', 'MovePeople', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503866910166253568	6	0.5116852623311482	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503866926330679296	7	0.5148656581081066	['Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'FirstPartyObservation', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503867092547141632	8	0.5225897829307854	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503867097060225024	9	0.5149333035121703	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503867406323056640	10	0.5318983733662316	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503867483795619840	11	0.521917106727544	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503867552536489985	12	0.5333314830602449	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503867580495327232	13	0.5221206241078333	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503867657628962817	14	0.5280663669895971	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503867895240073217	15	0.5104243003050102	['Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'PastNews', 'Hashtags', 'SearchAndRescue', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503867944213184512	16	0.5223730704681466	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503868013762715649	17	0.5112438192574537	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'Hashtags', 'SearchAndRescue', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503868128103653376	18	0.5223323295492329	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'Volunteer', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503868153253089280	19	0.5287198589944424	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503868161159331840	20	0.5139726154879335	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'FirstPartyObservation', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503868170290331648	21	0.5176688566535381	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'FirstPartyObservation', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503868176086478849	22	0.5188134554381091	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'FirstPartyObservation', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503868275726376960	23	0.5217034335143337	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503868704782708737	24	0.528587192076161	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503868877185380352	25	0.5274980130060022	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503869044077129728	26	0.5284646495176112	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503869050322038784	27	0.5157909161075904	['Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'FirstPartyObservation', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503869162360274945	28	0.5223730704681466	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503870722092310528	29	0.5228445468686099	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503870730308972544	30	0.5227360051865011	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503870746134077440	31	0.5262962703788667	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503870772213870592	32	0.5189721411403523	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503870779709460481	33	0.519116318716025	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503870846172401664	34	0.5206731778889808	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503871018448867328	35	0.5092260484673016	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'FirstPartyObservation', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503871125491699713	36	0.5279490738481779	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503871312536682497	37	0.52421510540565	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503871361488809984	38	0.5295771840164439	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'Volunteer', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503871766653976577	39	0.5182817285605952	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'Volunteer', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503871841740414977	40	0.5168522510257736	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'PastNews', 'Hashtags', 'SearchAndRescue', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503871869532246016	41	0.5252930920531678	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503871989778763777	42	0.5122694609441548	['Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'PastNews', 'Hashtags', 'SearchAndRescue', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503871994497363968	43	0.5215364278332747	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503872042283048961	44	0.5270680562527922	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503872245820039168	45	0.5225346392213133	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503872290614833153	46	0.5116543266248728	['Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'PastNews', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'FirstPartyObservation', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503872457284280320	47	0.5218085418729096	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'Volunteer', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503872460111228929	48	0.5277746805855749	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503872506974179328	49	0.5271834113672909	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503872580957126658	50	0.5133915412365561	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'FirstPartyObservation', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503872978119962624	51	0.5152247777264432	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'FirstPartyObservation', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503873045098803200	52	0.5227402493412469	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503874511435870208	53	0.5244013760603988	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503876231935569920	54	0.5263684601798804	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503876850452795392	55	0.5205504037215462	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503880239911825409	56	0.5194141315837734	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'FirstPartyObservation', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503880441821016064	57	0.5197128577437974	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503880621656010752	58	0.5217917289025609	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503881740294029312	59	0.5198172418477129	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503882088169627649	60	0.5226208929035685	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503884812747567104	61	0.5242088303126008	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503886618538045441	62	0.5138202313356206	['Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503887074442096641	63	0.5198172418477129	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503888762368049153	64	0.5118423209832965	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'PastNews', 'Hashtags', 'SearchAndRescue', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503888782756552705	65	0.5149241798334543	['Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503889349046325248	66	0.5148529621531837	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503890296510226432	67	0.5267505160695254	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503892296123695104	68	0.5204849778069629	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503893315570257920	69	0.5245012286343746	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503894692845469698	70	0.5180218375299748	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503894916590608384	71	0.5249869208059416	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503894981354864642	72	0.5147042829029543	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503895109671219201	73	0.519467077621116	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503897083418771456	74	0.510064821306011	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'PastNews', 'Hashtags', 'SearchAndRescue', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'FirstPartyObservation', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503898739715895296	75	0.5147963108433803	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503898935858315264	76	0.5179216646890182	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503899600080474113	77	0.5195791275729806	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503900094295330816	78	0.5260465935642383	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'Volunteer', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503900618218831872	79	0.5252042951009909	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503901263587577857	80	0.5195315674054128	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503902370384715776	81	0.5235389217439974	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503903062541352961	82	0.5307119524218981	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503904114418253824	83	0.5321041376753604	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503904423866019840	84	0.5140417442677996	['Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'FirstPartyObservation', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503904427204702208	85	0.5319739967692688	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503904634873065472	86	0.5272905203171022	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503904704649117696	87	0.5263719567589021	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'Volunteer', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503904714254462977	88	0.5243452889043408	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503904931695185920	89	0.5105965284884063	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503905177754021889	90	0.526503543910458	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'Volunteer', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503905239087726592	91	0.5170256551898126	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503905342229467136	92	0.5202327660115214	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	503905394599944192	93	0.5237758395638238	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504262622447796225	94	0.5260182289650149	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'Volunteer', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504263521849606144	95	0.5246690660235767	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504264948491776000	96	0.5203434377270192	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504266643774922754	97	0.5244340372085765	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'Volunteer', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504266724703608833	98	0.523575137763948	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'ThirdPartyObservation', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504267290360418304	99	0.5145082802540895	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504267598448431104	100	0.523823804736985	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'Volunteer', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504268112531689473	101	0.5268103072120879	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504268191376637953	102	0.5136664528006052	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504269009399717889	103	0.5194993050258282	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'Volunteer', 'SignificantEventChange', 'FirstPartyObservation', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504269111984021504	104	0.5275948696015292	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504269382974185472	105	0.5127664051415021	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504269898931908608	106	0.5252001872877219	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'FirstPartyObservation', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504269942254886912	107	0.5274980130060022	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504272394903515137	108	0.5163760105564601	['Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504272837927264256	109	0.5194355051390747	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504274968352686081	110	0.5233808176178261	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504276332574814208	111	0.5221093722602943	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'FirstPartyObservation', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504277259067203584	112	0.5174415487225094	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'FirstPartyObservation', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504278069717135360	113	0.5290974980103851	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504278262269624320	114	0.5085791210376264	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'FirstPartyObservation', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504278354410090498	115	0.5231486965438291	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504280048946675714	116	0.5106225072029735	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504280166873313280	117	0.5207906758904406	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504281569385672706	118	0.5226279951026583	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'FirstPartyObservation', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504282142197956608	119	0.5195664082437144	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'FirstPartyObservation', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504282313275211777	120	0.5223853134506065	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504282421404000256	121	0.5207553133835514	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504282700773998593	122	0.5228842312936163	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504284375115370496	123	0.5217058690766934	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504284669052215296	124	0.5117207576042836	['Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'PastNews', 'Hashtags', 'SearchAndRescue', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'ServiceAvailable', 'Volunteer', 'Unknown', 'SignificantEventChange', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504285218384011264	125	0.5186788456896391	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'ThirdPartyObservation', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'FirstPartyObservation', 'MultimediaShare']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504286461290885120	126	0.5294109871300751	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'FirstPartyObservation', 'MultimediaShare', 'KnownAlready']	run1
+
+
+TRECIS-CTIT-H-Test-024	Q0	504286662059233282	127	0.5209425410095776	['InformationWanted', 'Weather', 'GoodsServices', 'Discussion', 'Advice', 'CleanUp', 'Official', 'PastNews', 'Hashtags', 'SearchAndRescue', 'MovePeople', 'Donations', 'ServiceAvailable', 'Unknown', 'SignificantEventChange', 'FirstPartyObservation', 'MultimediaShare', 'KnownAlready']	run1
+
+
