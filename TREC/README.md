@@ -1,7 +1,6 @@
 ### Preparing the dataset for TREC
 
-We have two sets of json files. one (TREC-IS-Client-v3.jar - all json files containing tweets) where we will extract the tweets ( more information
-can be found here : http://dcs.gla.ac.uk/~richardm/TREC_IS/2019/2019_Instructions.html and 
+We have two sets of json files. one (TREC-IS-Client-v3.jar - all json files containing tweets) where we will extract the tweets (more information can be found here : http://dcs.gla.ac.uk/~richardm/TREC_IS/2019/2019_Instructions.html) and 
 the other - "TRECIS-2018-TestEvents-Labels" - for extracting the labels or categories of the tweets. (more info here: http://dcs.gla.ac.uk/~richardm/TREC_IS/
 under Training Resources - 2018 Labels for Training (ZIP)
 
