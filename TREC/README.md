@@ -52,3 +52,13 @@ We now have the final dataset in libSVM format ready for training.
 For example: each text file represents one event with all the tweets related to that event in a libSVM format word vector representaion. 
 
 to use peersimulator, please read the instruction here: https://github.com/nitinnat/GADGET 
+
+GADGET SVM, as mentioned in the above github repo, is for one dataset. However, TREC 2019-A has 7 events but in effect there are 15 events. As an example, earthquake is an event, however, files 'guatemalaEarthquake2012', 'nepalEarthquake2015', 'italyEarthquakes2012' likewise are three different events under earthquake event. In addition, each event is a seperate dataset for us. As such, we build independent models for each of the events. 
+
+It must be noted that, GADGET SVM is a linear binary classifier. The TREC 2019-A is a multi-class multi-label classification problem. However, there distribution of the classes is not great if we process to model a multi-class problem therefore, we do binary classifier on each class. In other words, for a given tweet, the class/category under consideration is given label '1' and rest all the 
+categories are given '-1'. Therefore, on a high level, we have for each event, we build a binary classifier for each category. 
+
+But we need the datasets in a particular format in order to use the GADGET SVM algorithm. The whole process is automated and the bashscripts : <TBD> 
+ can be used to create the folder and datasets. 
+ 
+ 
