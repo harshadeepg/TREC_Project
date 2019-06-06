@@ -60,18 +60,16 @@ can be used to create the folder and datasets.
 ### Bash SCripts:
 #### For Data Preparation
 
-##### the 'datasets' folder which is obtained after Wordvector representation steps, is to be copied into the 'data' folder in 'GADGET/GADGET/data'. [An example folder for one event and for one category in that event is already present in this repo]
+the 'datasets' folder which is obtained after Wordvector representation steps, is to be copied into the 'data' folder in 'GADGET/GADGET/data'. [An example folder for one event and for one category in that event is already present in this repo]
 
 ```
-bash GADGET/GADGET/data/commands.sh // This will create a directory for each category within in a event and move all the text // files of the realted to this category's directory. 
-
+bash GADGET/GADGET/data/commands.sh // This will create a directory for each category within in a event and move all the text files of the realted to this category's directory. 
 
 bash GADGET/GADGET/scripts/split_data.sh 
 bash GADGET/GADGET/scripts/one_dp.sh
 
-
 ```
-##### Optionally if you want to remove the .dat/csv/txt files that are no longer needed in the training process the GADGET SVM. you can use the below bash scripts. 
+Optionally if you want to remove the .dat/csv/txt files that are no longer needed in the training process the GADGET SVM. you can use the below bash scripts. 
 
 ```
 bash GADGET/remove_datt.sh 
