@@ -62,6 +62,10 @@ can be used to create the folder and datasets.
 
 the 'datasets' folder which is obtained after Wordvector representation steps, is to be copied into the 'data' folder in 'GADGET/GADGET/data'. [An example folder for one event and for one category in that event is already present in this repo]
 
+Also, use "create_dataset_folder.ipynb" in 'GADGET/' filder in order to first create the folder for all the events along with their class folders and write a config-pegasos.cfg file in each of them with require parameters. 
+
+the notebook also includes scripts that can automatically change other parameters across all the config files based on your input. all the scripts have headings and are straight forward in understanding what they do. 
+
 ```
 bash GADGET/GADGET/data/commands.sh // This will create a directory for each category within in a event and move all the text files of the realted to this category's directory. 
 
